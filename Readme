@@ -1,0 +1,15 @@
+# Need to do: pip install langchain pypdf2 python-dotenv streamlit 
+# Need to install langchain_community 
+# Need to install tiktoken
+# Need to install Faiss-cp 
+
+Need to install several packages to run this project 
+
+โปรแกรมนี้เป็นโปรแกรมเดี่ยวกับ การอ่านไฟล์ PDF เพื่อตอบคำถาม 
+ยังต้องพัฒนาต่อเรื่องของการการไฟล์ และการตอบคำถาม รวมถึงกระบวนการขึ้น Server ที่ยังไม่เรียบร้อย 
+
+เป็นการศึกษาจาก VDO ดังต่อไปนี้
+
+https://www.youtube.com/watch?v=wUAUdEw5oxM
+
+
